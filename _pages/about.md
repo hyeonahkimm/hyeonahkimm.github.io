@@ -39,7 +39,7 @@ Minsu Kim, **Taeyoung Yun**, Emmanuel Bengio, Dinghuai Zhang, Yoshua Bengio, Sun
 - **GTA: Generative Trajetory Augmentation with Guidance for Offline Reinforcement Learning**\\
 [[paper]](), [[code]](https://github.com/Jaewoopudding/GTA)\\
 Jaewoo Lee\*, Sujin Yun\*, **Taeyoung Yun**, and Jinkyoo Park (\*: Equal Contribution)\\
-<span style="color:purple">**ICLR GenAI4DM Workshop**</span> 2024
+<span style="color:purple">**ICLR GenAI4DM Workshop (Spotlight)**</span> 2024
 
 - **Learning to Scale Logits for Temperature-conditional GFlowNets**\\
 [[paper]](https://arxiv.org/abs/2310.02823),  [[code]](https://github.com/dbsxodud-11/logit-gfn)\\
