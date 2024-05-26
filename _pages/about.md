@@ -46,7 +46,7 @@ Jaewoo Lee\*, Sujin Yun\*, **Taeyoung Yun**, and Jinkyoo Park (\*: Equal Contrib
 Minsu Kim\*, Juhwan Ko\*, **Taeyoung Yun\***, Dinghuai Zhang, Ling Pan, Woochang Kim, Jinkyoo Park, and Yoshua Bengio (\*: Equal Contribution) \\
 <span style="color:purple">**ICML**</span> 2024
 
-- **Learning to Scale Logits for Temperature-conditional GFlowNets**\\
+- **An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems**\\
 [[paper]](),  [[code]](https://github.com/dbsxodud-11/offline_meta_bbo)\\
 **Taeyoung Yun\***,  Kanghoon Lee\*, Sujin Yun, Ilmyung Kim, Won-Woo Jung, Min-Cheol Kwon, Kyujin Choi, Yoohyeon Lee, and Jinkyoo Park (\*: Equal Contribution)\\
 <span style="color:purple">**KDD**</span> 2024
