@@ -37,7 +37,7 @@ Minsu Kim, **Taeyoung Yun**, Emmanuel Bengio, Dinghuai Zhang, Yoshua Bengio, Sun
 <span style="color:purple">**ICLR (Spotlight)**</span> 2024
 
 - **GTA: Generative Trajetory Augmentation with Guidance for Offline Reinforcement Learning**\\
-[[paper]](), [[code]](https://github.com/Jaewoopudding/GTA)\\
+[[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
 Jaewoo Lee\*, Sujin Yun\*, **Taeyoung Yun**, and Jinkyoo Park (\*: Equal Contribution)\\
 <span style="color:purple">**ICLR GenAI4DM Workshop (Spotlight)**</span> 2024
 
@@ -47,7 +47,7 @@ Minsu Kim\*, Juhwan Ko\*, **Taeyoung Yun\***, Dinghuai Zhang, Ling Pan, Woochang
 <span style="color:purple">**ICML**</span> 2024
 
 - **An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems**\\
-[[paper]](),  [[code]](https://github.com/dbsxodud-11/offline_meta_bbo)\\
+[[paper]](https://doi.org/10.1145/3637528.3671606),  [[code]](https://github.com/dbsxodud-11/offline_meta_bbo)\\
 **Taeyoung Yun\***,  Kanghoon Lee\*, Sujin Yun, Ilmyung Kim, Won-Woo Jung, Min-Cheol Kwon, Kyujin Choi, Yoohyeon Lee, and Jinkyoo Park (\*: Equal Contribution)\\
 <span style="color:purple">**KDD**</span> 2024
 
