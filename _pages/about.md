@@ -19,7 +19,7 @@ redirect_from:
 
 **Ph.D. student in Industrial and Systems Engineering at KAIST**
 
-I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">System Intelligence Lab</a> (advised by Prof. Jinkyoo Park) and <a href="https://comet.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Computational Optimization Methods Lab</a> (co-advised by Prof. Changhyun Kwon). My research focuses on machine learning for practical combinatorial optimization, *e.g., large-scale vehicle routing problems, hardware design optimization, and molecular optimization*. Here is my <a href="https://hyeonahkimm.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
+I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Systems Intelligence Lab</a> (advised by Prof. Jinkyoo Park) and <a href="https://comet.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Computational Optimization Methods Lab</a> (co-advised by Prof. Changhyun Kwon). My research focuses on machine learning for practical combinatorial optimization, *e.g., large-scale vehicle routing problems, hardware design optimization, and molecular optimization*. Here is my <a href="https://hyeonahkimm.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
 
 
 # 🔥 News
@@ -27,21 +27,35 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 - *2024.01*: &nbsp;🎉🎉 One paper published to INFORMS Journal on Computing
 - *2023.09*: &nbsp;🎉🎉 One paper accepted to AAAI 2024
 
-# 📝 Publications (
+# 📝 Publications 
+([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
 
-- **Genetic-guided GFlowNets for Sample Efficient Molecular Optimization** [[paper]](https://arxiv.org/abs/2402.05961),  [[code]](https://github.com/hyeonahkimm/genetic_gfn)\\
-*Hyeonah Kim*, Minsu Kim, Sanghyeok Choi, Jinkyoo Park \\
+- **[P] Genetic-guided GFlowNets for Sample Efficient Molecular Optimization** [[paper]](https://arxiv.org/abs/2402.05961), [[code]](https://github.com/hyeonahkimm/genetic_gfn)\\
+**Hyeonah Kim**, Minsu Kim, Sanghyeok Choi, Jinkyoo Park 
 
-- **Ant Colony Sampling with GFlowNets for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2403.07041),  [[code]](https://github.com/ai4co/gfacs)\\
-Minsu Kim, Sanghyeok Choi, *Hyeonah Kim*, Jiwoo Son, Jinkyoo Park, Yoshua Bengio\\
+- **[P] Ant Colony Sampling with GFlowNets for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2403.07041), [[code]](https://github.com/ai4co/gfacs)\\
+Minsu Kim, Sanghyeok Choi, **Hyeonah Kim**, Jiwoo Son, Jinkyoo Park, Yoshua Bengio
 
-- **Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2306.01276),  [[code]](https://github.com/kaist-silab/symmetric_replay)\\
-*Hyeonah Kim*, Minsu Kim, Sungsoo Ahn, Jinkyoo Park \\
-<span style="color:purple">**ICML**</span> 2024
+- **[C] Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2306.01276), [[code]](https://github.com/kaist-silab/symmetric_replay)\\
+**Hyeonah Kim**, Minsu Kim, Sungsoo Ahn, Jinkyoo Park \\
+*International Conference on Machine Learning (ICML), 2024*
 
-- **Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2306.01276),  [[code]](https://github.com/kaist-silab/symmetric_replay)\\
-*Hyeonah Kim*, Minsu Kim, Sungsoo Ahn, Jinkyoo Park \\
-<span style="color:purple">**ICML**</span> 2024
+- **[C] Equity-Transformer: Solving NP-hard Min-max Routing Problems as Sequential Generation with Equity Context** [[paper]](https://arxiv.org/abs/2306.02689), [[code]](https://github.com/kaist-silab/equity-transformer)\\
+Jiwoo Son\*, Minsu Kim\*, Sanghyeok Choi, **Hyeonah Kim**, Jinkyoo Park (\*: Equal Contribution) \\
+*AAAI Conference on Artificial Intelligence, 2024*
+
+- **[J, W] A Neural Separation Algorithm for the Rounded Capacity Inequalities** [[paper]](https://doi.org/10.1287/ijoc.2022.0310), [[code]](https://github.com/hyeonahkimm/neuralsep)\\
+**Hyeonah Kim**, Jinkyoo Park, Changhyun Kwon \\
+*INFORMS Journal on Computing (IJOC), 2024* \\
+*NeurIPS 2022 GLFrontiers Workshop*
+
+- **[W] RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library** [[paper]](https://arxiv.org/abs/2306.17100), [[code]](https://github.com/ai4co/rl4co)\\
+Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Minsu Kim, **Hyeonah Kim**, Jiwoo Son, Haeyeon Kim, Joungho Kim, Jinkyoo Park (\*: Equal Contribution) \\
+*NeurIPS 2023 Workshop: New Frontiers in Graph Learning (Oral)*
+
+- **Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization** [[paper]](https://proceedings.mlr.press/v202/son23a.html), [[code]](https://github.com/kaist-silab/meta-sage)\\
+Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park (\*: Equal Contribution) \\
+*International Conference on Machine Learning (ICML), 2023*
 
 
 <!-- # 🎖 Honors and Awards
@@ -49,13 +63,13 @@ Minsu Kim, Sanghyeok Choi, *Hyeonah Kim*, Jiwoo Son, Jinkyoo Park, Yoshua Bengio
 - *2021.12* Excellence Award on DACON NH Big Data Competition. -->
 
 # 📖 Educations
-- *2024.03 - current*, Ph.D in Graduate School of AI, KAIST (Korea Advanced Institute of Science and Technology)
-- *2022.09 - 2024.02*, M.S in Graduate School of AI, KAIST
-- *2018.03 - 2022.08*, B.S in Industrial and Systems Engineering & Computer ScienceS, KAIST
+- *2021.03 - 2025.02 (Expected)*, Ph.D. Candidate in Industrial and Systems Engineering, KAIST (SILAB & COMET Lab)
+- *Mar 2019 ~ Feb 2021*, M.S in Industrial Engineering, Seoul National University (Optimization and Operational Research Lab)
+- *Mar 2011 ~ Feb 2015*, B.S Industrial Engineering, Hanyang University (Information Design Lab)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
-- *2021.03 - 2021.08*, Internship at Kakao Recommendation Team
+- *Jan 2015 ~ Jun 2017*, Software Engineer at LGE ERP Manufacturing, LGCNS 
