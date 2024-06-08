@@ -53,10 +53,9 @@ Jiwoo Son\*, Minsu Kim\*, Sanghyeok Choi, **Hyeonah Kim**, Jinkyoo Park (\*: Equ
 Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Minsu Kim, **Hyeonah Kim**, Jiwoo Son, Haeyeon Kim, Joungho Kim, Jinkyoo Park (\*: Equal Contribution) \\
 *NeurIPS 2023 Workshop: New Frontiers in Graph Learning (Oral)*
 
-- **Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization** [[paper]](https://proceedings.mlr.press/v202/son23a.html), [[code]](https://github.com/kaist-silab/meta-sage)\\
+- **[C] Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization** [[paper]](https://proceedings.mlr.press/v202/son23a.html), [[code]](https://github.com/kaist-silab/meta-sage)\\
 Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park (\*: Equal Contribution) \\
 *International Conference on Machine Learning (ICML), 2023*
-
 
 <!-- # 🎖 Honors and Awards
 - *2021.09* Dean's List (Honor for Top 2% Students). 
