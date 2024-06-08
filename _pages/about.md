@@ -23,9 +23,9 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024
-- *2024.01*: &nbsp;🎉🎉 One paper published to INFORMS Journal on Computing
-- *2023.09*: &nbsp;🎉🎉 One paper accepted to AAAI 2024
+- *May 2024*: &nbsp;🎉🎉 One paper accepted to ICML 2024
+- *Jan 2024*: &nbsp;🎉🎉 One paper published to INFORMS Journal on Computing
+- *Sep 2023*: &nbsp;🎉🎉 One paper accepted to AAAI 2024
 
 # 📝 Publications 
 ([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
@@ -34,14 +34,14 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 **Hyeonah Kim**, Minsu Kim, Sanghyeok Choi, Jinkyoo Park 
 
 - **[P] Ant Colony Sampling with GFlowNets for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2403.07041), [[code]](https://github.com/ai4co/gfacs)\\
-Minsu Kim, Sanghyeok Choi, **Hyeonah Kim**, Jiwoo Son, Jinkyoo Park, Yoshua Bengio
+Minsu Kim\*, Sanghyeok Choi\*, **Hyeonah Kim**, Jiwoo Son, Jinkyoo Park, Yoshua Bengio
 
 - **[C] Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2306.01276), [[code]](https://github.com/kaist-silab/symmetric_replay)\\
 **Hyeonah Kim**, Minsu Kim, Sungsoo Ahn, Jinkyoo Park \\
 *International Conference on Machine Learning (ICML), 2024*
 
 - **[C] Equity-Transformer: Solving NP-hard Min-max Routing Problems as Sequential Generation with Equity Context** [[paper]](https://arxiv.org/abs/2306.02689), [[code]](https://github.com/kaist-silab/equity-transformer)\\
-Jiwoo Son\*, Minsu Kim\*, Sanghyeok Choi, **Hyeonah Kim**, Jinkyoo Park (\*: Equal Contribution) \\
+Jiwoo Son\*, Minsu Kim\*, Sanghyeok Choi, **Hyeonah Kim**, Jinkyoo Park \\
 *AAAI Conference on Artificial Intelligence, 2024*
 
 - **[J, W] A Neural Separation Algorithm for the Rounded Capacity Inequalities** [[paper]](https://doi.org/10.1287/ijoc.2022.0310), [[code]](https://github.com/hyeonahkimm/neuralsep)\\
@@ -50,11 +50,11 @@ Jiwoo Son\*, Minsu Kim\*, Sanghyeok Choi, **Hyeonah Kim**, Jinkyoo Park (\*: Equ
 *NeurIPS 2022 GLFrontiers Workshop*
 
 - **[W] RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library** [[paper]](https://arxiv.org/abs/2306.17100), [[code]](https://github.com/ai4co/rl4co)\\
-Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Minsu Kim, **Hyeonah Kim**, Jiwoo Son, Haeyeon Kim, Joungho Kim, Jinkyoo Park (\*: Equal Contribution) \\
+Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Minsu Kim, **Hyeonah Kim**, Jiwoo Son, Haeyeon Kim, Joungho Kim, Jinkyoo Park  \\
 *NeurIPS 2023 Workshop: New Frontiers in Graph Learning (Oral)*
 
 - **[C] Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization** [[paper]](https://proceedings.mlr.press/v202/son23a.html), [[code]](https://github.com/kaist-silab/meta-sage)\\
-Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park (\*: Equal Contribution) \\
+Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park \\
 *International Conference on Machine Learning (ICML), 2023*
 
 <!-- # 🎖 Honors and Awards
@@ -62,13 +62,13 @@ Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park (\*: Equal Contribution)
 - *2021.12* Excellence Award on DACON NH Big Data Competition. -->
 
 # 📖 Educations
-- *2021.03 - 2025.02 (Expected)*, Ph.D. Candidate in Industrial and Systems Engineering, KAIST (SILAB & COMET Lab)
-- *Mar 2019 ~ Feb 2021*, M.S in Industrial Engineering, Seoul National University (Optimization and Operational Research Lab)
-- *Mar 2011 ~ Feb 2015*, B.S Industrial Engineering, Hanyang University (Information Design Lab)
+- *Mar 2021 - Feb 2025 (Expected)*, Ph.D. Candidate in Industrial and Systems Engineering, KAIST (SILAB & COMET Lab)
+- *Mar 2019 - Feb 2021*, M.S in Industrial Engineering, Seoul National University (Optimization and Operational Research Lab)
+- *Mar 2011 - Feb 2015*, B.S Industrial Engineering, Hanyang University (Information Design Lab)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
-- *Jan 2015 ~ Jun 2017*, Software Engineer at LGE ERP Manufacturing, LGCNS 
+- *Jan 2015 - Jun 2017*, Software Engineer at LGE ERP Manufacturing, LGCNS 
