@@ -17,43 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">System Intelligence</a> lab in KAIST. I am fortunate to be advised by Professor <a href="https://scholar.google.com/citations?user=sH2a0nkAAAAJ&hl=en" style="color: #7289da; text-decoration: none;">Jinkyoo Park</a>. Here is my <a href="https://dbsxodud-11.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
+**Ph.D. student in Industrial and Systems Engineering at KAIST**
 
-My research interest lies in solving complex and high-dimensional black-box optimization problems through the lens of conditional generative modeling. I'm currently interested in Diffusion Models, Generative Flow Networks, and their applications to real-world tasks, e.g, biological sequence design, material discovery, and mechanical design. I'm also interested in various decision making problems such as bandits, Reinforcement Learning and Multi-Agent RL.
+I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">System Intelligence Lab</a> (advised by Prof. Jinkyoo Park) and <a href="https://comet.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Computational Optimization Methods Lab</a> (co-advised by Prof. Changhyun Kwon). My research focuses on machine learning for practical combinatorial optimization, *e.g., large-scale vehicle routing problems, hardware design optimization, and molecular optimization*. Here is my <a href="https://hyeonahkimm.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2024 (Spotlight)
-- *2024.03*: &nbsp;🎉🎉 One paper accepted to ICLR GenAI4DM Workshop 2024 (Spotlight)
 - *2024.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024
-- *2024.05*: &nbsp;🎉🎉 One paper accepted to KDD 2024
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.01*: &nbsp;🎉🎉 One paper published to INFORMS Journal on Computing
+- *2023.09*: &nbsp;🎉🎉 One paper accepted to AAAI 2024
 
-# 📝 Publications 
+# 📝 Publications (
 
-- **Local Search GFlowNets**\\
-[[paper]](https://arxiv.org/abs/2310.02710),  [[code]](https://github.com/dbsxodud-11/ls_gfn)\\
-Minsu Kim, **Taeyoung Yun**, Emmanuel Bengio, Dinghuai Zhang, Yoshua Bengio, Sungsoo Ahn, and Jinkyoo Park \\
-<span style="color:purple">**ICLR (Spotlight)**</span> 2024
+- **Genetic-guided GFlowNets for Sample Efficient Molecular Optimization** [[paper]](https://arxiv.org/abs/2402.05961),  [[code]](https://github.com/hyeonahkimm/genetic_gfn)\\
+*Hyeonah Kim*, Minsu Kim, Sanghyeok Choi, Jinkyoo Park \\
 
-- **GTA: Generative Trajetory Augmentation with Guidance for Offline Reinforcement Learning**\\
-[[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
-Jaewoo Lee\*, Sujin Yun\*, **Taeyoung Yun**, and Jinkyoo Park (\*: Equal Contribution)\\
-<span style="color:purple">**ICLR GenAI4DM Workshop (Spotlight)**</span> 2024
+- **Ant Colony Sampling with GFlowNets for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2403.07041),  [[code]](https://github.com/ai4co/gfacs)\\
+Minsu Kim, Sanghyeok Choi, *Hyeonah Kim*, Jiwoo Son, Jinkyoo Park, Yoshua Bengio\\
 
-- **Learning to Scale Logits for Temperature-conditional GFlowNets**\\
-[[paper]](https://arxiv.org/abs/2310.02823),  [[code]](https://github.com/dbsxodud-11/logit-gfn)\\
-Minsu Kim\*, Juhwan Ko\*, **Taeyoung Yun\***, Dinghuai Zhang, Ling Pan, Woochang Kim, Jinkyoo Park, and Yoshua Bengio (\*: Equal Contribution) \\
+- **Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2306.01276),  [[code]](https://github.com/kaist-silab/symmetric_replay)\\
+*Hyeonah Kim*, Minsu Kim, Sungsoo Ahn, Jinkyoo Park \\
 <span style="color:purple">**ICML**</span> 2024
 
-- **An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems**\\
-[[paper]](https://doi.org/10.1145/3637528.3671606),  [[code]](https://github.com/dbsxodud-11/offline_meta_bbo)\\
-**Taeyoung Yun\***,  Kanghoon Lee\*, Sujin Yun, Ilmyung Kim, Won-Woo Jung, Min-Cheol Kwon, Kyujin Choi, Yoohyeon Lee, and Jinkyoo Park (\*: Equal Contribution)\\
-<span style="color:purple">**KDD**</span> 2024
+- **Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2306.01276),  [[code]](https://github.com/kaist-silab/symmetric_replay)\\
+*Hyeonah Kim*, Minsu Kim, Sungsoo Ahn, Jinkyoo Park \\
+<span style="color:purple">**ICML**</span> 2024
 
-# 🎖 Honors and Awards
+
+<!-- # 🎖 Honors and Awards
 - *2021.09* Dean's List (Honor for Top 2% Students). 
-- *2021.12* Excellence Award on DACON NH Big Data Competition. 
+- *2021.12* Excellence Award on DACON NH Big Data Competition. -->
 
 # 📖 Educations
 - *2024.03 - current*, Ph.D in Graduate School of AI, KAIST (Korea Advanced Institute of Science and Technology)
@@ -64,6 +57,5 @@ Minsu Kim\*, Juhwan Ko\*, **Taeyoung Yun\***, Dinghuai Zhang, Ling Pan, Woochang
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Work Experience
 - *2021.03 - 2021.08*, Internship at Kakao Recommendation Team
