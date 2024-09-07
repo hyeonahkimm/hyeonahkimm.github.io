@@ -23,8 +23,9 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 
 
 # 🔥 News
+- *Sep 2024*: &nbsp;🎉🎉 "A Neural Separation Algorithm for the Rounded Capacity Inequalities" is selected as a featured article
 - *May 2024*: &nbsp;🎉🎉 One paper accepted to ICML 2024
-- *Jan 2024*: &nbsp;🎉🎉 One paper published to INFORMS Journal on Computing
+- *Jan 2024*: &nbsp;🎉🎉 One paper published to INFORMS Journal on Computing (IJOC)
 - *Sep 2023*: &nbsp;🎉🎉 One paper accepted to AAAI 2024
 
 # 📝 Publications 
