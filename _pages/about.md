@@ -23,19 +23,22 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 
 
 # 🔥 News
-- *Sep 2024*: &nbsp;🎉🎉 "A Neural Separation Algorithm for the Rounded Capacity Inequalities" is selected as a featured article
+- *Oct 2024*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024
+- *Sep 2024*: &nbsp;🎉🎉 "A Neural Separation Algorithm for the Rounded Capacity Inequalities" is selected as a featured article (INFORMS Journal on Computing)
 - *May 2024*: &nbsp;🎉🎉 One paper accepted to ICML 2024
-- *Jan 2024*: &nbsp;🎉🎉 One paper published to INFORMS Journal on Computing (IJOC)
-- *Sep 2023*: &nbsp;🎉🎉 One paper accepted to AAAI 2024
 
 # 📝 Publications 
 ([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
 
-- **[P] Genetic-guided GFlowNets for Sample Efficient Molecular Optimization** [[paper]](https://arxiv.org/abs/2402.05961), [[code]](https://github.com/hyeonahkimm/genetic_gfn)\\
-**Hyeonah Kim**, Minsu Kim, Sanghyeok Choi, Jinkyoo Park 
+- **[P] Improved Off-policy Reinforcement Learning in Biological Sequence Design** [[paper]](https://arxiv.org/pdf/2410.04461), [[code]](https://github.com/hyeonahkimm/delta_cs) \\
+**Hyeonah Kim**, Minsu Kim, Taeyoung Yun, Sanghyeok Choi, Emmanuel Bengio, Alex Hernández-García, Jinkyoo Park
 
 - **[P] Ant Colony Sampling with GFlowNets for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2403.07041), [[code]](https://github.com/ai4co/gfacs)\\
 Minsu Kim\*, Sanghyeok Choi\*, **Hyeonah Kim**, Jiwoo Son, Jinkyoo Park, Yoshua Bengio
+
+- **[C] Genetic-guided GFlowNets for Sample Efficient Molecular Optimization** [[paper]](https://arxiv.org/abs/2402.05961), [[code]](https://github.com/hyeonahkimm/genetic_gfn)\\
+**Hyeonah Kim**, Minsu Kim, Sanghyeok Choi, Jinkyoo Park \\
+*Neural Information Processing Systems (NeurIPS), 2024*
 
 - **[C] Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2306.01276), [[code]](https://github.com/kaist-silab/symmetric_replay)\\
 **Hyeonah Kim**, Minsu Kim, Sungsoo Ahn, Jinkyoo Park \\
