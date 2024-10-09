@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Ph.D. student in Industrial and Systems Engineering at KAIST**
+**Ph.D. Candidate in Industrial and Systems Engineering at KAIST**
 
 I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Systems Intelligence Lab</a> (advised by Prof. Jinkyoo Park) and <a href="https://comet.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Computational Optimization Methods Lab</a> (co-advised by Prof. Changhyun Kwon). My research focuses on machine learning for practical combinatorial optimization, *e.g., large-scale vehicle routing problems, hardware design optimization, and molecular optimization*. Here is my <a href="https://hyeonahkimm.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
 
@@ -30,7 +30,7 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 # 📝 Publications 
 ([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
 
-- **[P] Improved Off-policy Reinforcement Learning in Biological Sequence Design** [[paper]](https://arxiv.org/pdf/2410.04461), [[code]](https://github.com/hyeonahkimm/delta_cs) \\
+- **[P] Improved Off-policy Reinforcement Learning in Biological Sequence Design** [[paper]](https://arxiv.org/abs/2410.04461), [[code]](https://github.com/hyeonahkimm/delta_cs) \\
 **Hyeonah Kim**, Minsu Kim, Taeyoung Yun, Sanghyeok Choi, Emmanuel Bengio, Alex Hernández-García, Jinkyoo Park
 
 - **[P] Ant Colony Sampling with GFlowNets for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2403.07041), [[code]](https://github.com/ai4co/gfacs)\\
