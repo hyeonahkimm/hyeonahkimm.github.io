@@ -66,7 +66,7 @@ Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park \\
 
 # 🎖 Honors and Awards
 - *Dec 2024:* Google Conference Scholarship for NeurIPS 2024 (1st author of Genetic-guided GFlowNets for Sample Efficient Molecular Optimization)
-- *Nov 2024:* KAIAT 2024 best paper (1st author of A Neural Separation Algorithm for the Rounded Capacity Inequalities)
+- *Nov 2024:* KAIST 2024 best paper (1st author of A Neural Separation Algorithm for the Rounded Capacity Inequalities)
 <!-- - *Feb 2015* Summa Cum Laude  -->
 
 # 📖 Educations
