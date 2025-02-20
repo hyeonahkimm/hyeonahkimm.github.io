@@ -23,6 +23,7 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 
 
 # 🔥 News
+- *Jan 2025*: &nbsp;🎉🎉 One paper accepted to AISTATS 2025
 - *Dec 2024*: &nbsp;🎉🎉 **Google Conference Scholarship** for NeurIPS 2024
 - *Dec 2024*: &nbsp;🎉🎉 "Genetic-guided GFlowNets for Sample Efficient Molecular Optimization" is selected for a contributed talk at the WiML workshop (NeurIPS 2024)
 - *Oct 2024*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024
@@ -32,24 +33,28 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 # 📝 Publications 
 ([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
 
+- **[P] Neural Genetic Search in Discrete Spaces** [[paper]](https://arxiv.org/abs/2502.10433), [[code]](https://github.com/hyeonahkimm/ngs)\\
+**Hyeonah Kim**\*, Sanghyeok Choi\*, Jiwoo Son, Jinkyoo Park, Changhyun Kwon\\
+
+- **[C] Ant Colony Sampling with GFlowNets for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2403.07041), [[code]](https://github.com/ai4co/gfacs)\\
+Minsu Kim\*, Sanghyeok Choi\*, **Hyeonah Kim**, Jiwoo Son, Jinkyoo Park, Yoshua Bengio\\
+*AISTATS 2025*
+
 - **[W] Improved Off-policy Reinforcement Learning in Biological Sequence Design** [[paper]](https://arxiv.org/abs/2410.04461), [[code]](https://github.com/hyeonahkimm/delta_cs) \\
 **Hyeonah Kim**, Minsu Kim, Taeyoung Yun, Sanghyeok Choi, Emmanuel Bengio, Alex Hernández-García, Jinkyoo Park
 *AIDrugX@NeurIPS*
 
 - **[C] Genetic-guided GFlowNets for Sample Efficient Molecular Optimization** [[paper]](https://arxiv.org/abs/2402.05961), [[code]](https://github.com/hyeonahkimm/genetic_gfn)\\
 **Hyeonah Kim**, Minsu Kim, Sanghyeok Choi, Jinkyoo Park \\
-*Neural Information Processing Systems (NeurIPS), 2024*
-
-- **[P] Ant Colony Sampling with GFlowNets for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2403.07041), [[code]](https://github.com/ai4co/gfacs)\\
-Minsu Kim\*, Sanghyeok Choi\*, **Hyeonah Kim**, Jiwoo Son, Jinkyoo Park, Yoshua Bengio
+*NeurIPS 2024*
 
 - **[C] Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2306.01276), [[code]](https://github.com/kaist-silab/symmetric_replay)\\
 **Hyeonah Kim**, Minsu Kim, Sungsoo Ahn, Jinkyoo Park \\
-*International Conference on Machine Learning (ICML), 2024*
+*ICML 2024*
 
 - **[C] Equity-Transformer: Solving NP-hard Min-max Routing Problems as Sequential Generation with Equity Context** [[paper]](https://arxiv.org/abs/2306.02689), [[code]](https://github.com/kaist-silab/equity-transformer)\\
 Jiwoo Son\*, Minsu Kim\*, Sanghyeok Choi, **Hyeonah Kim**, Jinkyoo Park \\
-*AAAI Conference on Artificial Intelligence, 2024*
+*AAAI 2024*
 
 - **[J, W] A Neural Separation Algorithm for the Rounded Capacity Inequalities** [[paper]](https://doi.org/10.1287/ijoc.2022.0310), [[code]](https://github.com/hyeonahkimm/neuralsep)\\
 **Hyeonah Kim**, Jinkyoo Park, Changhyun Kwon \\
@@ -62,7 +67,7 @@ Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Minsu Kim, **Hyeonah Kim**, Ji
 
 - **[C] Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization** [[paper]](https://proceedings.mlr.press/v202/son23a.html), [[code]](https://github.com/kaist-silab/meta-sage)\\
 Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park \\
-*International Conference on Machine Learning (ICML), 2023*
+*ICML 2023*
 
 # 🎖 Honors and Awards
 - *Dec 2024:* Google Conference Scholarship for NeurIPS 2024 (1st author of Genetic-guided GFlowNets for Sample Efficient Molecular Optimization)
@@ -70,7 +75,7 @@ Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park \\
 <!-- - *Feb 2015* Summa Cum Laude  -->
 
 # 📖 Educations
-- *Mar 2021 - Feb 2025 (Expected)*, Ph.D. Candidate in Industrial and Systems Engineering, KAIST (SILAB & COMET Lab)
+- *Mar 2021 - Feb 2025*, Ph.D. Candidate in Industrial and Systems Engineering, KAIST (SILAB & COMET Lab)
 - *Mar 2019 - Feb 2021*, M.S in Industrial Engineering, Seoul National University (Optimization and Operational Research Lab)
 - *Mar 2011 - Feb 2015*, B.S Industrial Engineering, Hanyang University (Information Design Lab)
 
