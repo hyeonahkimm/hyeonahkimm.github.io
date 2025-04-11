@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Ph.D. Candidate in Industrial and Systems Engineering at KAIST**
 
-I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Systems Intelligence Lab</a> (advised by Prof. Jinkyoo Park) and <a href="https://comet.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Computational Optimization Methods Lab</a> (co-advised by Prof. Changhyun Kwon). My research focuses on machine learning for practical combinatorial optimization, *e.g., large-scale vehicle routing problems, hardware design optimization, and molecular optimization*. Here is my <a href="https://hyeonahkimm.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
+I'm a postdoctoral researcher at Mila and Université de Montréal, working with <a href="https://alexhernandezgarcia.github.io/" style="color: #7289da; text-decoration: none;">Alex Hernandez-Garcia</a>. My research focuses on scientific discovery with deep learning, with a particular interest in GFlowNets, active learning, and sample-efficient training. I'm currently exploring improved exploration strategies for GFlowNets and their applications to synthesizable molecule generation. I’m also deeply engaged in combinatorial optimization, motivated by the belief that many real-world problems require navigating large, structured, and discrete spaces. Here is my <a href="https://hyeonahkimm.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
 
 
 # 🔥 News
