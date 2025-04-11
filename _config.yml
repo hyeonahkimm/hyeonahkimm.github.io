@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hyeonah Kim"
   avatar           : "images/profile.jpg"
-  bio              : "Ph.D Student at KAIST"
-  location         : "Daejeon, Korea"
+  bio              : "Post-doc at Mila"
+  location         : "Montreal, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TYYYjckAAAAJ"
-  email            : "hyeonah_kim@kaist.ac.kr"
+  email            : "hyeonah.kim@mila.quebec"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
