@@ -22,12 +22,12 @@ I'm a postdoctoral researcher at Mila and Université de Montréal, working with
 
 
 # 🔥 News
+- *May 2025*: &nbsp;🎉🎉 Two papers accepted to ICML 2025
 - *Jan 2025*: &nbsp;🎉🎉 One paper accepted to AISTATS 2025
 - *Dec 2024*: &nbsp;🎉🎉 **Google Conference Scholarship** for NeurIPS 2024
 - *Dec 2024*: &nbsp;🎉🎉 "Genetic-guided GFlowNets for Sample Efficient Molecular Optimization" is selected for a contributed talk at the WiML workshop (NeurIPS 2024)
 - *Oct 2024*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024
 - *Sep 2024*: &nbsp;🎉🎉 "A Neural Separation Algorithm for the Rounded Capacity Inequalities" is selected as a featured article (INFORMS Journal on Computing)
-- *May 2024*: &nbsp;🎉🎉 One paper accepted to ICML 2024
 
 # 📝 Publications 
 ([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
