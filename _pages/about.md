@@ -22,6 +22,7 @@ I'm a postdoctoral researcher at Mila and Université de Montréal, working with
 
 
 # 🔥 News
+- *May 2025*: &nbsp;🎉🎉 **Sejong Science Fellowship** from the National Research Foundation of Korea
 - *May 2025*: &nbsp;🎉🎉 Two papers accepted to ICML 2025
 - *Jan 2025*: &nbsp;🎉🎉 One paper accepted to AISTATS 2025
 - *Dec 2024*: &nbsp;🎉🎉 **Google Conference Scholarship** for NeurIPS 2024
@@ -32,16 +33,17 @@ I'm a postdoctoral researcher at Mila and Université de Montréal, working with
 # 📝 Publications 
 ([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
 
-- **[P] Neural Genetic Search in Discrete Spaces** [[paper]](https://arxiv.org/abs/2502.10433), [[code]](https://github.com/hyeonahkimm/ngs)\\
+- **[C] Neural Genetic Search in Discrete Spaces** [[paper]](https://arxiv.org/abs/2502.10433), [[code]](https://github.com/hyeonahkimm/ngs)\\
 **Hyeonah Kim**\*, Sanghyeok Choi\*, Jiwoo Son, Jinkyoo Park, Changhyun Kwon\\
+*ICML 2025*
+
+- **[C] Improved Off-policy Reinforcement Learning in Biological Sequence Design** [[paper]](https://arxiv.org/abs/2410.04461), [[code]](https://github.com/hyeonahkimm/delta_cs) \\
+**Hyeonah Kim**, Minsu Kim, Taeyoung Yun, Sanghyeok Choi, Emmanuel Bengio, Alex Hernández-García, Jinkyoo Park
+*ICML 2025*
 
 - **[C] Ant Colony Sampling with GFlowNets for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2403.07041), [[code]](https://github.com/ai4co/gfacs)\\
 Minsu Kim\*, Sanghyeok Choi\*, **Hyeonah Kim**, Jiwoo Son, Jinkyoo Park, Yoshua Bengio\\
 *AISTATS 2025*
-
-- **[W] Improved Off-policy Reinforcement Learning in Biological Sequence Design** [[paper]](https://arxiv.org/abs/2410.04461), [[code]](https://github.com/hyeonahkimm/delta_cs) \\
-**Hyeonah Kim**, Minsu Kim, Taeyoung Yun, Sanghyeok Choi, Emmanuel Bengio, Alex Hernández-García, Jinkyoo Park
-*AIDrugX@NeurIPS*
 
 - **[C] Genetic-guided GFlowNets for Sample Efficient Molecular Optimization** [[paper]](https://arxiv.org/abs/2402.05961), [[code]](https://github.com/hyeonahkimm/genetic_gfn)\\
 **Hyeonah Kim**, Minsu Kim, Sanghyeok Choi, Jinkyoo Park \\
@@ -83,4 +85,5 @@ Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park \\
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
+- *April 2025 - Current *, Postdoctoral Researcher, Mila and Université de Montréal
 - *Jan 2015 - Jun 2017*, Software Engineer at LGE ERP Manufacturing, LGCNS 
