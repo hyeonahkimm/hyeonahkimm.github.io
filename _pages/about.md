@@ -33,6 +33,10 @@ I'm a postdoctoral researcher at Mila and Université de Montréal, working with
 # 📝 Publications 
 ([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
 
+- **[C] RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library** [[paper]](https://arxiv.org/abs/2306.17100), [[code]](https://github.com/ai4co/rl4co)\\
+Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \\
+*Knowledge Discovery and Data Mining (KDD) 2025 (Datasets and Benchmarks Track)*
+
 - **[C] Neural Genetic Search in Discrete Spaces** [[paper]](https://arxiv.org/abs/2502.10433), [[code]](https://github.com/hyeonahkimm/ngs)\\
 **Hyeonah Kim**\*, Sanghyeok Choi\*, Jiwoo Son, Jinkyoo Park, Changhyun Kwon\\
 *ICML 2025*
@@ -62,9 +66,6 @@ Jiwoo Son\*, Minsu Kim\*, Sanghyeok Choi, **Hyeonah Kim**, Jinkyoo Park \\
 *INFORMS Journal on Computing (IJOC), 2024* \\
 *NeurIPS 2022 GLFrontiers Workshop*
 
-- **[W] RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library** [[paper]](https://arxiv.org/abs/2306.17100), [[code]](https://github.com/ai4co/rl4co)\\
-Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Minsu Kim, **Hyeonah Kim**, Jiwoo Son, Haeyeon Kim, Joungho Kim, Jinkyoo Park  \\
-*NeurIPS 2023 Workshop: New Frontiers in Graph Learning (Oral)*
 
 - **[C] Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization** [[paper]](https://proceedings.mlr.press/v202/son23a.html), [[code]](https://github.com/kaist-silab/meta-sage)\\
 Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park \\
