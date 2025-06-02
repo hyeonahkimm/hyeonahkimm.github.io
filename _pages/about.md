@@ -22,13 +22,13 @@ I'm a postdoctoral researcher at Mila and Université de Montréal, working with
 
 
 # 🔥 News
-- *May 2025*: &nbsp;🎉🎉 **Sejong Science Fellowship** from the National Research Foundation of Korea
-- *May 2025*: &nbsp;🎉🎉 Two papers accepted to ICML 2025
-- *Jan 2025*: &nbsp;🎉🎉 One paper accepted to AISTATS 2025
-- *Dec 2024*: &nbsp;🎉🎉 **Google Conference Scholarship** for NeurIPS 2024
-- *Dec 2024*: &nbsp;🎉🎉 "Genetic-guided GFlowNets for Sample Efficient Molecular Optimization" is selected for a contributed talk at the WiML workshop (NeurIPS 2024)
-- *Oct 2024*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024
-- *Sep 2024*: &nbsp;🎉🎉 "A Neural Separation Algorithm for the Rounded Capacity Inequalities" is selected as a featured article (INFORMS Journal on Computing)
+- *May 2025*: &nbsp; **Sejong Science Fellowship** from the National Research Foundation of Korea
+- *May 2025*: &nbsp; Two papers accepted to ICML 2025
+- *Jan 2025*: &nbsp; One paper accepted to AISTATS 2025
+- *Dec 2024*: &nbsp; **Google Conference Scholarship** for NeurIPS 2024
+- *Dec 2024*: &nbsp; "Genetic-guided GFlowNets for Sample Efficient Molecular Optimization" is selected for a contributed talk at the WiML workshop (NeurIPS 2024)
+- *Oct 2024*: &nbsp; One paper accepted to NeurIPS 2024
+- *Sep 2024*: &nbsp; "A Neural Separation Algorithm for the Rounded Capacity Inequalities" is selected as a featured article (INFORMS Journal on Computing)
 
 # 📝 Publications 
 ([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
@@ -38,15 +38,15 @@ Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, 
 *Knowledge Discovery and Data Mining (KDD) 2025 (Datasets and Benchmarks Track)*
 
 - **[C] Neural Genetic Search in Discrete Spaces** [[paper]](https://arxiv.org/abs/2502.10433), [[code]](https://github.com/hyeonahkimm/ngs)\\
-**Hyeonah Kim**\*, Sanghyeok Choi\*, Jiwoo Son, Jinkyoo Park, Changhyun Kwon\\
+**Hyeonah Kim**\*, Sanghyeok Choi\*, Jiwoo Son, Jinkyoo Park, Changhyun Kwon \\
 *ICML 2025*
 
 - **[C] Improved Off-policy Reinforcement Learning in Biological Sequence Design** [[paper]](https://arxiv.org/abs/2410.04461), [[code]](https://github.com/hyeonahkimm/delta_cs) \\
-**Hyeonah Kim**, Minsu Kim, Taeyoung Yun, Sanghyeok Choi, Emmanuel Bengio, Alex Hernández-García, Jinkyoo Park
+**Hyeonah Kim**, Minsu Kim, Taeyoung Yun, Sanghyeok Choi, Emmanuel Bengio, Alex Hernández-García, Jinkyoo Park \\
 *ICML 2025*
 
 - **[C] Ant Colony Sampling with GFlowNets for Combinatorial Optimization** [[paper]](https://arxiv.org/abs/2403.07041), [[code]](https://github.com/ai4co/gfacs)\\
-Minsu Kim\*, Sanghyeok Choi\*, **Hyeonah Kim**, Jiwoo Son, Jinkyoo Park, Yoshua Bengio\\
+Minsu Kim\*, Sanghyeok Choi\*, **Hyeonah Kim**, Jiwoo Son, Jinkyoo Park, Yoshua Bengio \\
 *AISTATS 2025*
 
 - **[C] Genetic-guided GFlowNets for Sample Efficient Molecular Optimization** [[paper]](https://arxiv.org/abs/2402.05961), [[code]](https://github.com/hyeonahkimm/genetic_gfn)\\
@@ -66,10 +66,10 @@ Jiwoo Son\*, Minsu Kim\*, Sanghyeok Choi, **Hyeonah Kim**, Jinkyoo Park \\
 *INFORMS Journal on Computing (IJOC), 2024* \\
 *NeurIPS 2022 GLFrontiers Workshop*
 
-
 - **[C] Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization** [[paper]](https://proceedings.mlr.press/v202/son23a.html), [[code]](https://github.com/kaist-silab/meta-sage)\\
 Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park \\
 *ICML 2023*
+
 
 # 🎖 Honors and Awards
 - *Dec 2024:* Google Conference Scholarship for NeurIPS 2024 (1st author of Genetic-guided GFlowNets for Sample Efficient Molecular Optimization)
