@@ -86,5 +86,5 @@ Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park \\
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
-- *April 2025 - Current *, Postdoctoral Researcher, Mila and Université de Montréal
+- *April 2025 - Current*, Postdoctoral Researcher, Mila and Université de Montréal
 - *Jan 2015 - Jun 2017*, Software Engineer at LGE ERP Manufacturing, LGCNS 
