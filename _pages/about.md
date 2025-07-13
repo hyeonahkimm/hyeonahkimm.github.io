@@ -35,7 +35,7 @@ I'm a postdoctoral researcher at Mila and Université de Montréal, working with
 
 - **[C] RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library** [[paper]](https://arxiv.org/abs/2306.17100), [[code]](https://github.com/ai4co/rl4co)\\
 Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, **Hyeonah Kim**, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \\
-*Knowledge Discovery and Data Mining (KDD) 2025 (Datasets and Benchmarks Track)*
+*Knowledge Discovery and Data Mining (KDD) 2025 (Datasets and Benchmarks Track - Oral)*
 
 - **[C] Neural Genetic Search in Discrete Spaces** [[paper]](https://arxiv.org/abs/2502.10433), [[code]](https://github.com/hyeonahkimm/ngs)\\
 **Hyeonah Kim**\*, Sanghyeok Choi\*, Jiwoo Son, Jinkyoo Park, Changhyun Kwon \\
