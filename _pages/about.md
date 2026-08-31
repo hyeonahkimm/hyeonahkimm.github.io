@@ -17,21 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-I'm a postdoctoral researcher at Mila and Université de Montréal, working with <a href="https://alexhernandezgarcia.github.io/" style="color: #7289da; text-decoration: none;">Alex Hernandez-Garcia</a>. My research focuses on scientific discovery with deep learning, with a particular interest in GFlowNets, active learning, and sample-efficient training. I'm currently exploring improved exploration strategies for GFlowNets and their applications to synthesizable molecule generation. I’m also deeply engaged in combinatorial optimization, motivated by the belief that many real-world problems require navigating large, structured, and discrete spaces. Here is my <a href="https://hyeonahkimm.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
-
+I am an Assistant Professor at Ulsan National Institute of Science and Technology (UNIST), jointly appointed in the Department of Industrial Engineering and the Graduate School of Artificial Intelligence. My research focuses on machine learning for structured decision-making and discovery. I develop generative models, reinforcement learning methods, and search algorithms for navigating large, structured, and discrete spaces. My work spans combinatorial optimization and AI for Science, including molecular and biological design, with a recurring emphasis on sample-efficient learning when evaluations are expensive or data are limited. Here is my <a href="https://hyeonahkimm.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;">CV</a>.
 
 # 🔥 News
+- *Sep 2026*: &nbsp; Joined UNIST as an Assistant Professor
+- *May 2026*: &nbsp; One papers accepted to ICML 2026
 - *May 2025*: &nbsp; **Sejong Science Fellowship** from the National Research Foundation of Korea
 - *May 2025*: &nbsp; Two papers accepted to ICML 2025
 - *Jan 2025*: &nbsp; One paper accepted to AISTATS 2025
-- *Dec 2024*: &nbsp; **Google Conference Scholarship** for NeurIPS 2024
-- *Dec 2024*: &nbsp; "Genetic-guided GFlowNets for Sample Efficient Molecular Optimization" is selected for a contributed talk at the WiML workshop (NeurIPS 2024)
-- *Oct 2024*: &nbsp; One paper accepted to NeurIPS 2024
-- *Sep 2024*: &nbsp; "A Neural Separation Algorithm for the Rounded Capacity Inequalities" is selected as a featured article (INFORMS Journal on Computing)
 
 # 📝 Publications 
 ([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
+- **[C] Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors** [[paper]](https://openreview.net/forum?id=NoESvlwHHq), [[code]](https://github.com/hyeonahkimm/s3gfn)\\
+**Hyeonah Kim**, Minsu Kim, Celine Roget, Dionessa Biton, Louis Vaillancourt, Yves V. Brun, Yoshua Bengio, Alex Hernández-García \\
+*ICML 2026*
+
+- **[P] Test-Time Search in Neural Graph Coarsening Procedures for the Capacitated Vehicle Routing Problem** [[paper]](https://arxiv.org/abs/2510.00958)\\
+Yoonju Sim, **Hyeonah Kim**, Changhyun Kwon \\
+*Preprint*
 
 - **[C] RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library** [[paper]](https://arxiv.org/abs/2306.17100), [[code]](https://github.com/ai4co/rl4co)\\
 Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, **Hyeonah Kim**, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \\
@@ -72,19 +75,21 @@ Jiwoo Son\*, Minsu Kim\*, **Hyeonah Kim**, Jinkyoo Park \\
 
 
 # 🎖 Honors and Awards
+- *Sep 2025 - Aug 2026:* Sejong Science Fellowship, National Research Foundation of Korea
 - *Dec 2024:* Google Conference Scholarship for NeurIPS 2024 (1st author of Genetic-guided GFlowNets for Sample Efficient Molecular Optimization)
 - *Nov 2024:* KAIST Graduate Student Outstanding Paper Award 2024 (1st author of A Neural Separation Algorithm for the Rounded Capacity Inequalities)
 <!-- - *Feb 2015* Summa Cum Laude  -->
 
-# 📖 Educations
-- *Mar 2021 - Feb 2025*, Ph.D. Candidate in Industrial and Systems Engineering, KAIST (SILAB & COMET Lab)
-- *Mar 2019 - Feb 2021*, M.S in Industrial Engineering, Seoul National University (Optimization and Operational Research Lab)
-- *Mar 2011 - Feb 2015*, B.S Industrial Engineering, Hanyang University (Information Design Lab)
+# 📖 Education
+- *Mar 2021 - Feb 2025*, Ph.D. in Industrial and Systems Engineering, KAIST (SILAB & COMET Lab)
+- *Mar 2019 - Feb 2021*, M.S. in Industrial Engineering, Seoul National University (Optimization and Operational Research Lab)
+- *Mar 2011 - Feb 2015*, B.S. in Industrial Engineering, Hanyang University (Information Design Lab)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
-- *April 2025 - Current*, Postdoctoral Researcher, Mila and Université de Montréal
-- *Jan 2015 - Jun 2017*, Software Engineer at LGE ERP Manufacturing, LGCNS 
+- *Sep 2026 - Present*, Assistant Professor, Department of Industrial Engineering and Graduate School of Artificial Intelligence, UNIST
+- *Apr 2025 - Aug 2026*, Postdoctoral Researcher, Mila and Université de Montréal
+- *Jan 2015 - Jun 2017*, Software Engineer, LG CNS (LGE ERP Manufacturing)
