@@ -20,12 +20,12 @@ redirect_from:
 I am an Assistant Professor at Ulsan National Institute of Science and Technology (UNIST), jointly appointed in the Department of Industrial Engineering and the Graduate School of Artificial Intelligence. My research focuses on machine learning for structured decision-making and discovery. I develop generative models, reinforcement learning methods, and search algorithms for navigating large, structured, and discrete spaces. My work spans combinatorial optimization and AI for Science, including molecular and biological design, with a recurring emphasis on sample-efficient learning when evaluations are expensive or data are limited. Here is my <a href="https://hyeonahkimm.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;">CV</a>.
 
 # 🔥 News
-- *Sep 2026*: &nbsp; Joined **UNIST** as an Assistant Professor
+- *Sep 2026*: Joined **UNIST** as an Assistant Professor
 - *May 2026*: Gave a seminar at **Institut Pasteur** in Paris
-- *May 2026*: &nbsp; One papers accepted to **ICML 2026**
-- *May 2025*: &nbsp; **Sejong Science Fellowship** from the National Research Foundation of Korea
-- *May 2025*: &nbsp; Two papers accepted to **ICML 2025**
-- *Jan 2025*: &nbsp; One paper accepted to **AISTATS 2025**
+- *May 2026*: One papers accepted to **ICML 2026**
+- *May 2025*: **Sejong Science Fellowship** from the National Research Foundation of Korea
+- *May 2025*: Two papers accepted to **ICML 2025**
+- *Jan 2025*: One paper accepted to **AISTATS 2025**
 
 # 📝 Publications 
 ([C]: Conference, [J]: Journal, [W]: Workshop, [P]: Preprint)
