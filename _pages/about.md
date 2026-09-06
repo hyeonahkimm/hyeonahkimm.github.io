@@ -22,7 +22,7 @@ I am an Assistant Professor at Ulsan National Institute of Science and Technolog
 # 🔥 News
 - *Sep 2026*: Joined **UNIST** as an Assistant Professor
 - *May 2026*: Gave a seminar at **Institut Pasteur** in Paris
-- *May 2026*: One papers accepted to **ICML 2026**
+- *May 2026*: One paper accepted to **ICML 2026**
 - *May 2025*: **Sejong Science Fellowship** from the National Research Foundation of Korea
 - *May 2025*: Two papers accepted to **ICML 2025**
 - *Jan 2025*: One paper accepted to **AISTATS 2025**
